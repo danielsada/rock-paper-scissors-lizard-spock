@@ -1,6 +1,8 @@
 # Rock-Paper-Scissors-Lizard-Spock
 🎸📄✂️🦎🖖A ruby DSL parser based on rock paper scissors lizard spock, written in a Domain Specific language.
 
+https://www.youtube.com/watch?v=iSHPVCBsnLw
+
 ## How it works?
 
 The usage is as follows.
